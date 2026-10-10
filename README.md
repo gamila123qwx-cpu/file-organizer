@@ -98,4 +98,4 @@ test/
 
 ## Author
 
-Built as a Python practice project.
+Built by gamila as a python practice project.
